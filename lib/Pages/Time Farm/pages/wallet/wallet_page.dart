@@ -24,7 +24,7 @@ class WalletPage extends StatelessWidget {
             padding: EdgeInsets.symmetric(vertical: Get.height / 30),
             child: Center(
               child: Container(
-                width: 99,
+                width: 100,
                 height: 100,
                 decoration: BoxDecoration(
                   color: const Color(0xffFEFEFE),
